@@ -181,6 +181,12 @@ int main(){
             {
 
             }
-           
+            break;
+            default:
+            {
+                cout << "Pilihan salah !." << endl;
+            }
+            break; 
+       
 };
 
