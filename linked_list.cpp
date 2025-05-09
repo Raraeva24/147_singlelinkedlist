@@ -176,7 +176,11 @@ int main(){
                     cout << "\n";
                 }
             }
-            
-    }
+            break;
+            case '5': 
+            {
+
+            }
+           
 };
 
